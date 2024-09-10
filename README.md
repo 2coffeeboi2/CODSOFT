@@ -9,3 +9,6 @@ This task aims to predict movie ratings using a machine learning model. The data
 
 # Task 3: Iris FLower Classification
 This task aims to develop a machine learning model that classifies Iris flowers into Setosa, Versicolor, or Virginica based on sepal and petal measurements using the Iris dataset. The project involves preprocessing the data, training classification algorithms, and evaluating model performance for accurate species prediction
+
+# Task 4: Sales Prediction Using Python
+This task aimes to develop a robust sales prediction model using machine learning techniques in Python. This model will forecast future sales volumes by analyzing historical sales data and considering various influencing factors such as advertising expenditure, target audience segmentation, and advertising platform selection. The goal is to enable businesses to make informed decisions on optimizing their advertising strategies and maximizing sales potential through accurate and actionable prediction
