@@ -12,3 +12,6 @@ This task aims to develop a machine learning model that classifies Iris flowers 
 
 # Task 4: Sales Prediction Using Python
 This task aimes to develop a robust sales prediction model using machine learning techniques in Python. This model will forecast future sales volumes by analyzing historical sales data and considering various influencing factors such as advertising expenditure, target audience segmentation, and advertising platform selection. The goal is to enable businesses to make informed decisions on optimizing their advertising strategies and maximizing sales potential through accurate and actionable prediction
+
+# Task5: Credit Card Fraud Detection
+This task aims to develop and evaluate a machine learning model for identifying fraudulent credit card transactions by preprocessing data, addressing class imbalance, and using metrics like precision, recall, and F1-score.
